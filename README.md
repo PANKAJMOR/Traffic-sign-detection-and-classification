@@ -11,7 +11,7 @@ image.
 - Convolutional Neural Network (CNN): Used for classifying the detected
 traffic signs into specific categories.
 
-2. Lane Detection:
+2. Lane Detection: 
 - Custom Code (as provided): Implemented for detecting lane markings in
 the image using the following Computer Vision (CV) techniques:
 - Grayscale Conversion: Simplifies image processing by reducing it to a
